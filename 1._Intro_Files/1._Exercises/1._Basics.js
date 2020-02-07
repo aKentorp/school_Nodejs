@@ -21,7 +21,8 @@ var number = 1;
 // The result should be 2020
 // You cannot touch line 1 or 2
 
+var newYear = Number(year) + number;
 
-console.log(Number(year) + number);
+console.log(newYear);
 
 // --------------------------------------
